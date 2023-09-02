@@ -78,18 +78,11 @@
 		2C4E868E2A9FA3BA00CEE99A /* Scrumdinger */ = {
 			isa = PBXGroup;
 			children = (
+				2C6621312AA37F7700389822 /* Views */,
 				2C46C95A2AA1198A001C90A1 /* Models */,
 				2C4E868F2A9FA3BA00CEE99A /* ScrumdingerApp.swift */,
-				2C4E86912A9FA3BA00CEE99A /* MeetingView.swift */,
 				2C4E86932A9FA3BC00CEE99A /* Assets.xcassets */,
 				2C4E86952A9FA3BC00CEE99A /* Preview Content */,
-				2C46C95F2AA11AD2001C90A1 /* CardView.swift */,
-				2C46C9612AA11EAF001C90A1 /* TrailingIconLabelStyle.swift */,
-				2C46C9632AA11FEF001C90A1 /* ScrumsView.swift */,
-				2C7826C72AA2166F0026FF2E /* DetailView.swift */,
-				2C7826C92AA21F810026FF2E /* DetailEditView.swift */,
-				2C7826CB2AA224490026FF2E /* ThemeView.swift */,
-				2C7826CD2AA2250D0026FF2E /* ThemePicker.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -100,6 +93,21 @@
 				2C4E86962A9FA3BC00CEE99A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2C6621312AA37F7700389822 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2C46C9612AA11EAF001C90A1 /* TrailingIconLabelStyle.swift */,
+				2C7826CD2AA2250D0026FF2E /* ThemePicker.swift */,
+				2C4E86912A9FA3BA00CEE99A /* MeetingView.swift */,
+				2C46C95F2AA11AD2001C90A1 /* CardView.swift */,
+				2C46C9632AA11FEF001C90A1 /* ScrumsView.swift */,
+				2C7826C72AA2166F0026FF2E /* DetailView.swift */,
+				2C7826C92AA21F810026FF2E /* DetailEditView.swift */,
+				2C7826CB2AA224490026FF2E /* ThemeView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
