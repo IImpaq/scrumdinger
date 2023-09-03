@@ -1,5 +1,3 @@
-#  Scrumdinger
-
 <div align="center">
     <br>
     <h1>Scrumdinger</h1>
@@ -7,7 +5,7 @@
         <b>Managing your daily scrums</b>
     </p>
     <br>
-    <img src="Assets/title_image.png" width="200">
+    <img src="Assets/title_image.png" width="300">
     <br>
 </div>
 
