@@ -16,7 +16,7 @@ The reason for working my way through the tutorial series is to get started with
 By finishing this application I was able to learn Swift as well as SwiftUI and get myself familiar with provided features such as "speech to text".
 
 ## Notes
-This app/project was only developed for learning purposes. If you want to build this app yourself, I suggest taking a look at the tutorial yourself (see AAcknowledgments).
+This app/project was only developed for learning purposes. If you want to build this app yourself, I suggest taking a look at the tutorial yourself (see Acknowledgments).
 
 ## Author
 Marcus Gugacs
