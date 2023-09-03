@@ -22,9 +22,9 @@
 		2C4E86942A9FA3BC00CEE99A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C4E86932A9FA3BC00CEE99A /* Assets.xcassets */; };
 		2C4E86972A9FA3BC00CEE99A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C4E86962A9FA3BC00CEE99A /* Preview Assets.xcassets */; };
 		2C6621332AA3826E00389822 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6621322AA3826E00389822 /* MeetingHeaderView.swift */; };
-		2C6621372AA3847100389822 /* 3RD-PARTY-LICENSES.md in Resources */ = {isa = PBXBuildFile; fileRef = 2C6621352AA3847100389822 /* 3RD-PARTY-LICENSES.md */; };
+		2C6621372AA3847100389822 /* 3RD-PARTY-LICENSES in Resources */ = {isa = PBXBuildFile; fileRef = 2C6621352AA3847100389822 /* 3RD-PARTY-LICENSES */; };
 		2C6621392AA3849900389822 /* ScrumProgressViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6621382AA3849800389822 /* ScrumProgressViewStyle.swift */; };
-		2C66213B2AA3854E00389822 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = 2C66213A2AA3854E00389822 /* LICENSE.md */; };
+		2C66213B2AA3854E00389822 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 2C66213A2AA3854E00389822 /* LICENSE */; };
 		2C66213D2AA3857700389822 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C66213C2AA3857600389822 /* ScrumTimer.swift */; };
 		2C66213F2AA3865400389822 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C66213E2AA3865400389822 /* MeetingFooterView.swift */; };
 		2C6621412AA38AAF00389822 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6621402AA38AAF00389822 /* AVPlayer+Ding.swift */; };
@@ -58,9 +58,9 @@
 		2C4E86932A9FA3BC00CEE99A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C4E86962A9FA3BC00CEE99A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2C6621322AA3826E00389822 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
-		2C6621352AA3847100389822 /* 3RD-PARTY-LICENSES.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "3RD-PARTY-LICENSES.md"; sourceTree = "<group>"; };
+		2C6621352AA3847100389822 /* 3RD-PARTY-LICENSES */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "3RD-PARTY-LICENSES"; sourceTree = "<group>"; };
 		2C6621382AA3849800389822 /* ScrumProgressViewStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrumProgressViewStyle.swift; sourceTree = "<group>"; };
-		2C66213A2AA3854E00389822 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
+		2C66213A2AA3854E00389822 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		2C66213C2AA3857600389822 /* ScrumTimer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 		2C66213E2AA3865400389822 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		2C6621402AA38AAF00389822 /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
@@ -107,8 +107,8 @@
 			children = (
 				2C3118232AA49CCE00FF64F1 /* .gitignore */,
 				2C3118222AA499AE00FF64F1 /* README.md */,
-				2C66213A2AA3854E00389822 /* LICENSE.md */,
-				2C6621352AA3847100389822 /* 3RD-PARTY-LICENSES.md */,
+				2C66213A2AA3854E00389822 /* LICENSE */,
+				2C6621352AA3847100389822 /* 3RD-PARTY-LICENSES */,
 				2C4E868E2A9FA3BA00CEE99A /* Scrumdinger */,
 				2C4E868D2A9FA3BA00CEE99A /* Products */,
 			);
@@ -233,9 +233,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C6621442AA38B0000389822 /* ding.wav in Resources */,
-				2C66213B2AA3854E00389822 /* LICENSE.md in Resources */,
+				2C66213B2AA3854E00389822 /* LICENSE in Resources */,
 				2C4E86972A9FA3BC00CEE99A /* Preview Assets.xcassets in Resources */,
-				2C6621372AA3847100389822 /* 3RD-PARTY-LICENSES.md in Resources */,
+				2C6621372AA3847100389822 /* 3RD-PARTY-LICENSES in Resources */,
 				2C3118242AA49CCE00FF64F1 /* .gitignore in Resources */,
 				2C4E86942A9FA3BC00CEE99A /* Assets.xcassets in Resources */,
 			);

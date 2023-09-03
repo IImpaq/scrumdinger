@@ -1,5 +1,5 @@
 /*
-See 3RD-PARTY-LICENSES.md file for this sample’s licensing information.
+See 3RD-PARTY-LICENSES file for this sample’s licensing information.
 */
 
 import SwiftUI
