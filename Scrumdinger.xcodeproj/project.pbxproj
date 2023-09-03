@@ -11,6 +11,7 @@
 		2C31181C2AA491A700FF64F1 /* SpeakerArc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C31181B2AA491A700FF64F1 /* SpeakerArc.swift */; };
 		2C31181F2AA4959800FF64F1 /* SpeechRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C31181E2AA4959800FF64F1 /* SpeechRecognizer.swift */; };
 		2C3118212AA496EC00FF64F1 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C3118202AA496EC00FF64F1 /* HistoryView.swift */; };
+		2C3118242AA49CCE00FF64F1 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2C3118232AA49CCE00FF64F1 /* .gitignore */; };
 		2C46C95C2AA1199F001C90A1 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C46C95B2AA1199F001C90A1 /* Theme.swift */; };
 		2C46C95E2AA11A44001C90A1 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C46C95D2AA11A44001C90A1 /* DailyScrum.swift */; };
 		2C46C9602AA11AD2001C90A1 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C46C95F2AA11AD2001C90A1 /* CardView.swift */; };
@@ -44,6 +45,8 @@
 		2C31181B2AA491A700FF64F1 /* SpeakerArc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeakerArc.swift; sourceTree = "<group>"; };
 		2C31181E2AA4959800FF64F1 /* SpeechRecognizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpeechRecognizer.swift; sourceTree = "<group>"; };
 		2C3118202AA496EC00FF64F1 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		2C3118222AA499AE00FF64F1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2C3118232AA49CCE00FF64F1 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		2C46C95B2AA1199F001C90A1 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		2C46C95D2AA11A44001C90A1 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		2C46C95F2AA11AD2001C90A1 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
@@ -102,6 +105,8 @@
 		2C4E86832A9FA3BA00CEE99A = {
 			isa = PBXGroup;
 			children = (
+				2C3118232AA49CCE00FF64F1 /* .gitignore */,
+				2C3118222AA499AE00FF64F1 /* README.md */,
 				2C66213A2AA3854E00389822 /* LICENSE.md */,
 				2C6621352AA3847100389822 /* 3RD-PARTY-LICENSES.md */,
 				2C4E868E2A9FA3BA00CEE99A /* Scrumdinger */,
@@ -231,6 +236,7 @@
 				2C66213B2AA3854E00389822 /* LICENSE.md in Resources */,
 				2C4E86972A9FA3BC00CEE99A /* Preview Assets.xcassets in Resources */,
 				2C6621372AA3847100389822 /* 3RD-PARTY-LICENSES.md in Resources */,
+				2C3118242AA49CCE00FF64F1 /* .gitignore in Resources */,
 				2C4E86942A9FA3BC00CEE99A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
