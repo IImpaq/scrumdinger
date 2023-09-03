@@ -1,6 +1,15 @@
 #  Scrumdinger
 
-![title image](./Assets/title_image.png)
+<div align="center">
+    <br>
+    <h1>Scrumdinger</h1>
+    <p>
+        <b>Managing your daily scrums</b>
+    </p>
+    <br>
+    <img src="Assets/title_image.png" width="200">
+    <br>
+</div>
 
 ## Description
 
