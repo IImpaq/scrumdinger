@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C31181A2AA48E2400FF64F1 /* MeetingTimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C3118192AA48E2400FF64F1 /* MeetingTimerView.swift */; };
+		2C31181C2AA491A700FF64F1 /* SpeakerArc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C31181B2AA491A700FF64F1 /* SpeakerArc.swift */; };
 		2C46C95C2AA1199F001C90A1 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C46C95B2AA1199F001C90A1 /* Theme.swift */; };
 		2C46C95E2AA11A44001C90A1 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C46C95D2AA11A44001C90A1 /* DailyScrum.swift */; };
 		2C46C9602AA11AD2001C90A1 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C46C95F2AA11AD2001C90A1 /* CardView.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C3118192AA48E2400FF64F1 /* MeetingTimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingTimerView.swift; sourceTree = "<group>"; };
+		2C31181B2AA491A700FF64F1 /* SpeakerArc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeakerArc.swift; sourceTree = "<group>"; };
 		2C46C95B2AA1199F001C90A1 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		2C46C95D2AA11A44001C90A1 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		2C46C95F2AA11AD2001C90A1 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
@@ -145,6 +149,8 @@
 				2C66213E2AA3865400389822 /* MeetingFooterView.swift */,
 				2C6621452AA38DF600389822 /* NewScrumSheet.swift */,
 				2C66214D2AA39B5500389822 /* ErrorView.swift */,
+				2C3118192AA48E2400FF64F1 /* MeetingTimerView.swift */,
+				2C31181B2AA491A700FF64F1 /* SpeakerArc.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -234,8 +240,10 @@
 				2C7826CE2AA2250D0026FF2E /* ThemePicker.swift in Sources */,
 				2C6621392AA3849900389822 /* ScrumProgressViewStyle.swift in Sources */,
 				2C66213F2AA3865400389822 /* MeetingFooterView.swift in Sources */,
+				2C31181C2AA491A700FF64F1 /* SpeakerArc.swift in Sources */,
 				2C66214E2AA39B5500389822 /* ErrorView.swift in Sources */,
 				2C66213D2AA3857700389822 /* ScrumTimer.swift in Sources */,
+				2C31181A2AA48E2400FF64F1 /* MeetingTimerView.swift in Sources */,
 				2C46C95E2AA11A44001C90A1 /* DailyScrum.swift in Sources */,
 				2C66214A2AA3979C00389822 /* ScrumStore.swift in Sources */,
 				2C7826C82AA2166F0026FF2E /* DetailView.swift in Sources */,
